@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Student_Material_Design</string>
+    <string name="app_name">Student List</string>
+
+    <string name="student1">Иван Шмаль</string>
+    <string name="student2">Александра Спиридонова</string>
+    <string name="student3">Арина Лойко</string>
+    <string name="student4">Григорий Катаржин</string>
+    <string name="student5">Диана Кузьмина</string>
+    <string name="student6">Динара Жанатпаева</string>
+    <string name="student7">Роман Зорин</string>
+    <string name="student8">Данил Жадаев</string>
+    <string name="student9">Роман Березкин</string>
+    <string name="student10">Николай Шапкин</string>
+
+    <string name="student1_desc">Специализация: поиск зарядки от ноутбука. Последний раз видели в библиотеке — спал на клавиатуре, набрав 47 букв «ы» в курсовой.</string>
+    <string name="student2_desc">Мастер многозадачности: одновременно пишет диплом, заказывает шаурму и отвечает маме „да, я уже поела</string>
+    <string name="student3_desc">Верит, что экзамен можно сдать силой взгляда. Носит с собой ручку „на удачу" — она же из начальной школы.</string>
+    <string name="student4_desc">Специалист по „я это сделаю завтра". Календарь забит напоминаниями „срочно", все даты — вчера. Любит делать проекты по Kotlin на Java.</string>
+    <string name="student5_desc">Первая на парах, последняя уходит. Преподаватели думают, что она ассистент. На самом деле просто боится потерять место у розетки.</string>
+    <string name="student6_desc">Может объяснить теорию относительности, но не может объяснить, почему в холодильнике до сих пор лежит йогурт с прошлого семестра.</string>
+    <string name="student7_desc">Единственный человек, который приносит на пары настоящий термос. В нём — не чай, а надежда на тройку.</string>
+    <string name="student8_desc">Знает все мемы про программирование, но Hello World запускал с третьего раза. Гордость: выжил после дедлайна по ночам.</string>
+    <string name="student9_desc">Ведёт 7 тетрадей разных цветов. На экзамене путает их местами и получает пятёрку по химии вместо истории.</string>
+    <string name="student10_desc">Специалист по „я болел". Пропустил 12 пар, но на зачёте знает больше всех — смотрел лекции на 2х скорости в метро.</string>
+
+    <string name="years_old">%d лет</string>
 </resources>
