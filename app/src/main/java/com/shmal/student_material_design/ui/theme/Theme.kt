@@ -275,6 +275,7 @@ fun Student_Material_DesignTheme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = AppTypography,
+        shapes = Shapes,
         content = content
     )
 }
